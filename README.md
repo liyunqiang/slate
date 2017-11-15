@@ -32,7 +32,7 @@ Getting started with Slate is super easy! Simply fork this repository and follow
 Getting Started with Slate
 ------------------------------
 
-### Prerequisites
+### jjjdj afa fa faf Prerequisites
 
 You're going to need:
 
